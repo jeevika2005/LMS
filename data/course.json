@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Full Stack Web Development (MERN)",
+    "description": "Learn MERN stack from scratch",
+    "instructor": "John Doe",
+    "price": 4999,
+    "category": "Web Development",
+    "images": [{ "image": "/images/courses/1.png" }],
+    "ratings": 4.5,
+    "stock": 100
+  },
+  {
+    "title": "React.js Complete Guide",
+    "description": "Master React.js and build real-world apps",
+    "instructor": "Jane Smith",
+    "price": 2999,
+    "category": "Frontend Development",
+    "images": [{ "image": "/images/courses/2.png" }],
+    "ratings": 4.2,
+    "stock": 80
+  },
+  {
+    "title": "Node.js & Express Masterclass",
+    "description": "Backend development with Node.js and Express",
+    "instructor": "Alice Johnson",
+    "price": 2599,
+    "category": "Backend Development",
+    "images": [{ "image": "/images/courses/3.png" }],
+    "ratings": 4.3,
+    "stock": 50
+  },
+  {
+    "title": "MongoDB for Developers",
+    "description": "Learn MongoDB for modern applications",
+    "instructor": "Bob Williams",
+    "price": 1999,
+    "category": "Database",
+    "images": [{ "image": "/images/courses/4.jpg" }],
+    "ratings": 4.0,
+    "stock": 70
+  },
+  {
+    "title": "Advanced JavaScript",
+    "description": "Deep dive into JavaScript concepts",
+    "instructor": "Sara Lee",
+    "price": 1799,
+    "category": "Web Development",
+    "images": [{ "image": "/images/courses/5.jpg" }],
+    "ratings": 4.1,
+    "stock": 90
+  },
+  {
+    "title": "Flutter Mobile App Development",
+    "description": "Build cross-platform mobile apps with Flutter",
+    "instructor": "Michael Brown",
+    "price": 3499,
+    "category": "Mobile Development",
+    "images": [{ "image": "/images/courses/6.png" }],
+    "ratings": 4.4,
+    "stock": 60
+  }
+]
